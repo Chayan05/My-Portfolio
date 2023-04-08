@@ -1,0 +1,229 @@
+
+#project{
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    padding-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 2.25rem;
+    color: #575314;
+}
+
+
+body{
+    margin: 0;
+    
+}
+p{
+    margin-bottom: 0;
+    font-size: 1.75rem;
+    font-family:  sans-serif;
+    
+}
+
+h1{
+    display: inline-block;
+    margin-top:70px ;
+    font-size: 3.5rem;
+    font-family: 'Cookie', cursive, sans-serif ;
+    color: #0f5a34;
+   
+}
+hr{
+    border-top: 1.5px solid rgb(28, 152, 137) ;
+    border-bottom: 0px;
+   margin: auto ;
+    width: 100%;
+    
+}
+h3{
+    font-family: 'Bree Serif', serif;
+    color: #484410;
+}
+
+.main{
+   
+    position: relative;
+    text-align: center;
+    border: 0;
+    background-color: #BBD6B8; 
+
+}
+
+.middle-container{
+    background-color: #DFFFD8; 
+    
+    padding-top:50px;
+    position: relative;
+    
+}
+.bottom-container{
+    text-align: center; 
+    padding-top: 10px;
+    background-color: #9DC08B;
+}
+
+
+
+.web{
+    font-family: 'Bree Serif', serif;
+    margin-top: 0px;
+}
+
+.cloud{
+    background-color: #BBD6B8; 
+   
+}
+
+.nature{
+    background-color: #BBD6B8; 
+    position: relative;
+    
+}
+
+.man{
+    display:block ;
+    margin: 0 auto 0 auto;
+    position: relative;
+    width: 10%;
+    bottom: 50px;
+
+}
+.img{
+    
+    display:block ;
+    margin: 0 auto 0 auto;
+    
+    width: 25%;
+    
+
+}
+.ig{
+    position: absolute;
+    right: 250px;
+    top:30px;
+    width:10%;
+}
+.im{
+    
+    margin-left:210px;
+    margin-bottom: 13px;
+    width:10%;
+
+}
+.chayan{
+    display: block;
+    margin: 0 auto 0 auto;
+   width: 17%;
+   padding-bottom: 25px;
+}
+
+.h{
+    
+    text-align: center;
+    margin-top: 0;
+}
+.greet{
+    font-family: 'Comic Neue', cursive;
+    color: #575314;
+   
+}
+
+.about-me{
+    font-family: 'Spectral', serif;
+    display: block;
+    margin: 50px auto 50px auto;
+   width: 50%;
+    line-height: normal;
+    padding-top:10px;
+    margin-bottom: 0px;
+}
+.skill-row{
+    text-align: left;
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    width: 50%;
+}
+.gif{
+    position: relative;
+    margin: auto;
+    width: 3%;
+    top: 100px;
+    left:600px;
+    
+}
+
+.spo{
+    width: 17%;
+    float:left;
+    margin-right: 30px;
+
+}
+.spo-txt{
+    font-size: 1.1rem;
+    font-family: 'Spectral', serif;
+
+}
+.cal
+{
+    width:17%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me{
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+}
+.get{
+    padding-bottom: 20px;
+   font-size: 3.1rem;
+   color: #575314;
+}
+.follow{
+ padding-bottom: 10px;
+}
+.con{
+  padding-bottom: 50px;
+  font-family: 'Spectral', serif;
+}
+.btn {
+    background: #34ced9;
+    background-image: -webkit-linear-gradient(top, #34ced9, #2ca5b8);
+    background-image: -moz-linear-gradient(top, #34ced9, #2ca5b8);
+    background-image: -ms-linear-gradient(top, #34ced9, #2ca5b8);
+    background-image: -o-linear-gradient(top, #34ced9, #2ca5b8);
+    background-image: linear-gradient(to bottom, #34ced9, #2ca5b8);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #066110;
+    text-decoration: none;
+  }
+  .button{
+    padding-bottom: 70px;
+  }
+  .copy{
+    font-size: .6rem;
+  }
+ .linkd{
+    width: 3%;
+ }
+ .twitter{
+    width: 3%;
+    margin-left: 5px;
+ }
+ .face{
+    
+    width: 3%;
+    margin-left: 7px;
+    
+ }
